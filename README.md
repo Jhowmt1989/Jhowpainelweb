@@ -12,7 +12,7 @@ bash <(wget -qO- https://github.com/Jhowmt1989/Jhowpainelweb/raw/main/painelwv5/
 
 # 🔑CHAVE DE INSTALAÇÃO:
 ```
-@vpnmoney
+@Jhownet
 ```
 
 # 🔄SINCRONIZADOR SSH</br> 
